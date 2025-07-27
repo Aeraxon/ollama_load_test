@@ -522,6 +522,6 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 - ✅ Personal use, education, research, open source projects
 
 ### 💼 Commercial Use License
-For commercial use, contact: [your.email@domain.de]
+For commercial use, open an issue in this repository or contact via GitHub.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
