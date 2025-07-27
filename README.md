@@ -505,3 +505,23 @@ This automated load testing tool helps you quickly and systematically determine 
 - 📈 **Actionable**: Directly implementable capacity recommendations
 
 For questions or problems, you can adjust the parameters and run smaller tests to adapt the tool to your specific requirements.
+
+## ⚠️ Disclaimer
+
+**USE AT YOUR OWN RISK**
+
+This software is provided "as is" without warranty of any kind. The author(s) assume **NO LIABILITY** for any damages, losses, or issues that may occur from using this software, including but not limited to: data loss, hardware damage, system failures, network issues, natural disasters, cosmic events, or any other consequences whatsoever.
+
+By using this software, you acknowledge that you use it entirely at your own risk and take full responsibility for any outcomes.
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+### 🆓 Non-Commercial Use (Free)
+- ✅ Personal use, education, research, open source projects
+
+### 💼 Commercial Use License
+For commercial use, contact: [your.email@domain.de]
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
