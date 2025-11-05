@@ -1,4 +1,4 @@
-#DEPRECATED PROJECT
+# DEPRECATED PROJECT
 ## Project will be continued here:
 https://github.com/Aeraxon/llm-load-test
 
