@@ -1,4 +1,9 @@
-# Ollama Load Test Tool
+#DEPRECATED PROJECT
+## Project will be continued here:
+https://github.com/Aeraxon/llm-load-test
+
+
+## Ollama Load Test Tool
 
 A realistic load testing tool for Ollama instances that simulates real user behavior and helps determine the capacity limits of your LLM chat environment.
 
